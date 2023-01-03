@@ -24,7 +24,7 @@ article {
     padding: 1rem;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1024px) {
     main{
         width:375px;
         margin:0
@@ -59,7 +59,7 @@ p {
     color: hsl(220, 15%, 55%)
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1024px) {
     p {
         font-size: 17px;
     }
